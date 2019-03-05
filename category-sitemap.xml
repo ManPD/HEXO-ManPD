@@ -9,14 +9,14 @@
 
     <url>
         <loc>http://yoursite.com/categories/Etc/</loc>
-        <lastmod>2019-03-04T19:57:15.929Z</lastmod>
+        <lastmod>2019-03-05T08:14:02.887Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://yoursite.com/categories/Etc/Test-Board/</loc>
-        <lastmod>2019-03-04T19:57:15.929Z</lastmod>
+        <lastmod>2019-03-05T08:14:02.887Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
