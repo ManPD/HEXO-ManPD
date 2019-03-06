@@ -4,17 +4,17 @@
 
     <sitemap>
         <loc>https://manpd.github.io/post-sitemap.xml</loc>
-        <lastmod>2019-02-19T20:00:08.777Z</lastmod>
+        <lastmod>2019-03-06T06:13:48.830Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>https://manpd.github.io/category-sitemap.xml</loc>
-        
+        <lastmod>2019-03-06T06:13:48.830Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>https://manpd.github.io/tag-sitemap.xml</loc>
-        
+        <lastmod>2019-03-06T06:13:48.830Z</lastmod>
     </sitemap>
 
 </sitemapindex>
