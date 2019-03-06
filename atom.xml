@@ -5,9 +5,9 @@
   <subtitle>ManPD&#39;s Laboratory</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2019-03-05T09:11:25.198Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="https://manpd.github.io/"/>
+  <updated>2019-02-19T20:00:08.777Z</updated>
+  <id>https://manpd.github.io/</id>
   
   <author>
     <name>ManPD, All rights reserved.</name>
@@ -17,37 +17,9 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>1차1234567890abcdefghijklmnopqrsABCDEFGHIJKLMNOP</title>
-    <link href="http://yoursite.com/2019/03/05/test/"/>
-    <id>http://yoursite.com/2019/03/05/test/</id>
-    <published>2019-03-04T18:11:41.000Z</published>
-    <updated>2019-03-05T09:11:25.198Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="큰-제목"><a class="markdownIt-Anchor" href="#큰-제목"></a> 큰 제목</h1><h2 id="두-번째-큰-제목"><a class="markdownIt-Anchor" href="#두-번째-큰-제목"></a> 두 번째 큰 제목</h2><figure class="highlight c"><figcaption><span>[Test.cpp][]</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;stdio.h&gt;</span></span></span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">(<span class="keyword">void</span>)</span></span>&#123;</span><br><span class="line"><span class="built_in">printf</span>(<span class="string">"Hello World!\n"</span>);</span><br><span class="line"><span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>1234567890<br>abcdefghijklmnopqrs<br>ABCDEFGHIJKLMNOP</p><div class="video-container"><iframe src="//www.youtube.com/embed/fPVlYiyNM-k" frameborder="0" allowfullscreen></iframe></div><div class="twitter-wrapper"><blockquote class="twitter-tweet"><a href="https://twitter.com/devunt/status/1102760501795123200" target="_blank" rel="noopener"></a></blockquote></div><script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;큰-제목&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#큰-제목&quot;&gt;&lt;/a&gt; 큰 제목&lt;/h1&gt;
-&lt;h2 id=&quot;두-번째-큰-제목&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#두-번째-큰-제목&quot;&gt;&lt;/a
-      
-    
-    </summary>
-    
-      <category term="Etc" scheme="http://yoursite.com/categories/Etc/"/>
-    
-      <category term="Test_Board" scheme="http://yoursite.com/categories/Etc/Test-Board/"/>
-    
-    
-      <category term="testtag" scheme="http://yoursite.com/tags/testtag/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/02/20/hello-world/"/>
-    <id>http://yoursite.com/2019/02/20/hello-world/</id>
+    <link href="https://manpd.github.io/2019/02/20/hello-world/"/>
+    <id>https://manpd.github.io/2019/02/20/hello-world/</id>
     <published>2019-02-19T20:00:08.777Z</published>
     <updated>2019-02-19T20:00:08.777Z</updated>
     
